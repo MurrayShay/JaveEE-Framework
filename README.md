@@ -7,4 +7,11 @@
 `spring-boot-mvc-toturial` | 如何配置DispatcherServlet、Restful Api和啟用jsp。
 `spring-boot-rabbitmq-toturial` | 配置與啟動Fanout、Topic與Direct Queue。
 
+
+指令           | 解說  | Food | Gold      <--標題列 (必要)
+--------------|-------|------|------     <--分隔列 (必要)
+spring-boot-mvc-toturial| 如何配置DispatcherServlet、Restful Api和啟用jsp。 |  500 |    0      <--資料列 (選填)
+spring-boot-rabbitmq-toturial   | 配置與啟動Fanout、Topic與Direct Queue。|  800 |  200
+Imperial Age  | 03:30 | 1000 |  800 
+
 ---
