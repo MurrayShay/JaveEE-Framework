@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true">
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5p %logger{0}.%L %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="murray.shay" level="TRACE">
+		<appender-ref ref="STDOUT" />
+	</logger>
+
+	<logger name="org" level="INFO">
+		<appender-ref ref="STDOUT" />
+	</logger>
+
+</configuration>

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-mvc-tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: murray
+Implementation-Vendor-Id: murray.shay
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-mvc-tutorial
+Created-By: Maven Integration for Eclipse
+
