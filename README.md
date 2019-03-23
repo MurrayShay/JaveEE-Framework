@@ -8,7 +8,7 @@
 `spring-boot-rabbitmq-toturial` | 配置與啟動Fanout、Topic與Direct Queue。
 
 
-Default    | Left       | Center     | Right
------------| :--------- | :--------: | ---------: 
-         x |          x |          x |          x 
-xxxxxxxxxx | xxxxxxxxxx | xxxxxxxxxx | xxxxxxxxxx
+指令        | 解說       | 
+-----------| :--------- |
+         x |          x |
+xxxxxxxxxx | xxxxxxxxxx |
